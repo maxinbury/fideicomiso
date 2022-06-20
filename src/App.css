@@ -1,0 +1,22 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+
+
+.container_all{
+  position: relative;
+  right: 0;
+  transition: all 300ms;
+} */
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form {
+  margin: 10px;
+}
