@@ -1,6 +1,7 @@
 {
   "name": "fideicomiso",
   "version": "0.1.0",
+  "homepage":"http//:fideicomisosantacatalina.com",
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^2.14.0",
